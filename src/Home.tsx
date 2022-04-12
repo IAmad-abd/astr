@@ -1821,7 +1821,7 @@ const Home = (props: HomeProps) => {
                                                                         Phase 1 is to bring together a team of lead developers, designers and staff members.
                                                                         111 Prime and 1222 OG members have been invited to the ASTRALS private discord,
                                                                         and we are well on our way to filling our whitelist roster.
-                                                                        The art for all 1,500 ASTRALS will be finalized.
+                                                                        The art for all 1,555 ASTRALS will be finalized.
                             </p>
                             <br />
                           </div>
@@ -1878,7 +1878,7 @@ const Home = (props: HomeProps) => {
                           <div className="tw-my-1">
                             <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
                                                                         In Phase 3,
-                                                                        1,500 Astrals NFTs will be minted on April 13th, 2022 and discord will be opened to the Loyals.
+                                                                        1,555 Astrals NFTs will be minted on April 13th, 2022 and discord will be opened to the Loyals.
 
                                                                         ASTRALS will be listed on Magic Eden, your official marketplace for ASTRALS NFTs.
                                                                     
